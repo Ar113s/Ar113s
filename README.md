@@ -16,25 +16,6 @@ Still early in my journey — but obsessed with learning how systems can be atta
 
 ---
 
-## 🛡️ Purple Team Focus
-I love blending both sides:
-
-### 🔴 Red Team
-- Recon & OSINT  
-- Basic exploitation  
-- Web attacks  
-- Privilege escalation  
-
-### 🔵 Blue Team
-- Log analysis  
-- SIEM fundamentals  
-- Threat detection basics  
-- System hardening  
-
-My goal is to understand **how attacks happen** *and* how to **spot+stop** them.
-
----
-
 ## 🧠 Skills I’m Growing
 - **Python** → automation, tools, recon scripts  
 - **Linux** → CLI, system internals, troubleshooting  
@@ -57,19 +38,5 @@ Every challenge teaches me something new.
 
 ---
 
-## 🚧 Currently Building / Learning
-- Better Python automation for recon  
-- Home lab with attack & defense scenarios  
-- Detection engineering (alerts, logs, IOCs)  
-- More structured pentesting methodology  
-
----
-
-## 📬 Connect (optional)
-- Email: `<your-email>`  
-- TryHackMe / HackTheBox: `<your-profile>`  
-
----
-
 > **“Break it. Understand it. Fix it. Repeat.”**  
-> — My entire purple-team workflow 😄
+>                             — My entire purple-team workflow 

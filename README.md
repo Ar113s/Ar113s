@@ -1,6 +1,6 @@
 # 🟣 Hey, I'm Ar113s
 
-### 🛡️ Cybersecurity Researcher | 🟣 Purple Team Learner | 🎯 CTF Player
+### 🛡️ Cybersecurity Researcher | 🟣 Purple Team Learner | 🎯 CTF Player | 🌐 Network engineer
 
 I work at the intersection of **breaking things** (Red Team) and **defending them** (Blue Team).  
 Still early in my journey — but obsessed with learning how systems can be attacked, monitored, and protected.

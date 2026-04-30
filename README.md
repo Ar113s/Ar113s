@@ -4,6 +4,7 @@
 
 I work at the intersection of **breaking things** (Red Team) and **defending them** (Blue Team).  
 Still early in my journey — but obsessed with learning how systems can be attacked, monitored, and protected.
+
 You can explore all my blogs and write-ups here: [Blog](https://ar113s.github.io/)
 
 ---
